@@ -1,0 +1,13 @@
+
+$font-family-sans-serif: Inter, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+$font-size-base: 0.875rem;
+$primary: #2eb3db;
+$body-color: #2c3e50;
+$gray-100: #f9fafc;
+$gray-200: #eff2f7;
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+$nav-color: #16212c;

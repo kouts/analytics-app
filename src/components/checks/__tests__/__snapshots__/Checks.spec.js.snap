@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checks snapshots should render correctly 1`] = `
+<table
+  class="table table-checks"
+>
+  <thead>
+    <tr>
+      <th
+        class="w-15"
+        scope="col"
+      >
+        TYPE
+      </th>
+       
+      <th
+        class="w-45"
+        scope="col"
+      >
+        NAME
+      </th>
+       
+      <th
+        class="w-10 text-center"
+        scope="col"
+      >
+        SUCCESS
+      </th>
+       
+      <th
+        class="w-10 text-center"
+        scope="col"
+      >
+        AVG
+      </th>
+       
+      <th
+        class="w-10 text-center"
+        scope="col"
+      >
+        P95
+      </th>
+       
+      <th
+        class="w-10 text-center"
+        scope="col"
+      >
+        P99
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody>
+    <tr>
+      <td
+        class="w-100 p-0"
+        colspan="6"
+      >
+        <table
+          class="table table-borderless mb-0"
+        >
+          <tr>
+            <td
+              class="w-15"
+            >
+              <button
+                class="d-flex align-items-center btn-transparent ml-n2"
+                type="button"
+              >
+                <div
+                  class="icon toggle-icon"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="octicon octicon-chevron-right"
+                    height="20"
+                    version="1.1"
+                    viewBox="0 0 16 16"
+                    width="20"
+                  >
+                    <path
+                      d="M6.22 3.22a.75.75 0 011.06 0l4.25 4.25a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06-1.06L9.94 8 6.22 4.28a.75.75 0 010-1.06z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+                 
+                <span
+                  class="badge badge-check badge-check--api"
+                >
+                  API
+                </span>
+                 
+                <!---->
+              </button>
+            </td>
+             
+            <td
+              class="w-45"
+            >
+              Check 0
+            </td>
+             
+            <td
+              class="w-10 text-center"
+            >
+              50%
+            </td>
+             
+            <td
+              class="w-10 text-center"
+            >
+              499ms
+            </td>
+             
+            <td
+              class="w-10 text-center"
+            >
+              951ms
+            </td>
+             
+            <td
+              class="w-10 text-center"
+            >
+              990ms
+            </td>
+          </tr>
+           
+          <!---->
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

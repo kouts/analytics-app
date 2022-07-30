@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography snapshots should render default as p element 1`] = `<p class="typography typography--p      ">Slot content</p>`;
+
+exports[`Typography snapshots should render h1 element 1`] = `<h1 class="typography typography--h1      ">Slot content</h1>`;
+
+exports[`Typography snapshots should render h2 element 1`] = `<h2 class="typography typography--h2      ">Slot content</h2>`;
+
+exports[`Typography snapshots should render h3 element 1`] = `<h3 class="typography typography--h3      ">Slot content</h3>`;
+
+exports[`Typography snapshots should render h4 element 1`] = `<h4 class="typography typography--h4      ">Slot content</h4>`;
+
+exports[`Typography snapshots should render h5 element 1`] = `<h5 class="typography typography--h5      ">Slot content</h5>`;
+
+exports[`Typography snapshots should render h6 element 1`] = `<h6 class="typography typography--h6      ">Slot content</h6>`;
+
+exports[`Typography snapshots should render p element 1`] = `<p class="typography typography--p      ">Slot content</p>`;
+
+exports[`Typography snapshots should render small element 1`] = `<small class="typography typography--small      ">Slot content</small>`;
+
+exports[`Typography snapshots should render span element 1`] = `<span class="typography typography--span      ">Slot content</span>`;
+
+exports[`Typography snapshots should render with bold 1`] = `<p class="typography typography--p  typography--bold    ">Slot content</p>`;
+
+exports[`Typography snapshots should render with italic 1`] = `<p class="typography typography--p typography--italic     ">Slot content</p>`;
+
+exports[`Typography snapshots should render with large 1`] = `<p class="typography typography--p     typography--large ">Slot content</p>`;
+
+exports[`Typography snapshots should render with underline 1`] = `<p class="typography typography--p    typography--underline  ">Slot content</p>`;
+
+exports[`Typography snapshots should render with uppercase 1`] = `<p class="typography typography--p   typography--uppercase   ">Slot content</p>`;
